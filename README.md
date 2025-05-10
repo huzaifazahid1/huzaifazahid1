@@ -61,7 +61,7 @@ Check out my portfolio:
   <a href="https://www.facebook.com/share/1E6K2VJTuj/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/huzaifa-zahid-369b4a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/huzaifa-369b4a291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:zahidhuzaifa006@gmail.com" target="_blank">
