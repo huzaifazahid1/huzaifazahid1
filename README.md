@@ -1,10 +1,4 @@
 
-<!-- ===================================================================== -->
-<!-- GITHUB PROFILE README — Huzaifa | Full-Stack Developer                -->
-<!-- Black + gold brand · futuristic · powered by dynamic SVG services     -->
-<!-- Repo: create a repo named exactly "huzaifazahid1" and paste this file -->
-<!-- ===================================================================== -->
-
 <!-- Hero banner — black to gold wave with name + tagline -->
 <p align="center">
   <img
@@ -18,7 +12,7 @@
 <p align="center">
   <a href="https://huzaifalabs.site">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E9C200&center=true&vCenter=true&width=520&lines=Building+AI-Powered+Web+Applications;MERN+%7C+.NET+%7C+Python;Hackathon+Winner+%40+DeveloperWeek+NY+2026;Code.+Create.+Conquer."
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E9C200&center=true&vCenter=true&width=520&lines=Building+AI-Powered+Web+Applications;MERN+%7C+.NET+%7C+Python;Hackathon+Winner+%40+DeveloperWeek+NY+2026;"
       alt="Typing animation"
     />
   </a>
@@ -94,10 +88,9 @@ const huzaifa: Developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI / ML
-![Claude](https://img.shields.io/badge/Anthropic_Claude-0a0a08?style=for-the-badge&logo=anthropic&logoColor=E9C200)
-![Groq](https://img.shields.io/badge/Groq-F54E2B?style=for-the-badge&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-0a0a08?style=for-the-badge&logo=openai&logoColor=E9C200)
+![AI Workflow Automation](https://img.shields.io/badge/AI_Workflow_Automation-0a0a08?style=for-the-badge&logo=zapier&logoColor=E9C200)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0a0a08?style=for-the-badge&logo=openai&logoColor=E9C200)
 
 <br/>
 
@@ -126,13 +119,23 @@ const huzaifa: Developer = {
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=huzaifazahid1&show_icons=true&theme=high_contrast&hide_border=true&bg_color=0a0a08&title_color=E9C200&icon_color=E9C200&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api?username=huzaifazahid1&show_icons=true&theme=high_contrast&hide_border=true&bg_color=0a0a08&title_color=E9C200&icon_color=E9C200&text_color=ffffff&rank_icon=github&show=reviews,prs_merged"
     alt="Huzaifa GitHub Stats"
+    onerror="this.style.display='none'"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazahid1&layout=compact&theme=high_contrast&hide_border=true&bg_color=0a0a08&title_color=E9C200&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifazahid1&layout=compact&theme=high_contrast&hide_border=true&bg_color=0a0a08&title_color=E9C200&text_color=ffffff&langs_count=8"
     alt="Top Languages"
+    onerror="this.style.display='none'"
+  />
+</p>
+
+<!-- Fallback: GitHub trophies (separate service, more reliable) -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=huzaifazahid1&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6"
+    alt="GitHub Trophies"
   />
 </p>
 
@@ -142,6 +145,7 @@ const huzaifa: Developer = {
     alt="GitHub Streak"
   />
 </p>
+
 
 <br/>
 
