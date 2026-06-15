@@ -1,5 +1,3 @@
-# GitHub Profile README — huzaifazahid1
-# Copy everything below this line into your README.md
 
 <!-- ===================================================================== -->
 <!-- GITHUB PROFILE README — Huzaifa | Full-Stack Developer                -->
